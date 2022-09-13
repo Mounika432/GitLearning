@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+193b38a561ae246301a1b3f7f8e4b854546dc8d7 refs/heads/gh-pages
+53343c27abcedf58ff51d896f36af5a437b391c4 refs/heads/main
+3bde4f19cbd9fc571b87861445f85508b3c9292c refs/heads/springboot3
+bf0452d6f2df564c6bb1cafecd0f6893473de3c5 refs/heads/wavefront
+c36452a2c34443ae26b4ecbba4f149906af14717 refs/tags/1.5.x
